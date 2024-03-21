@@ -1,0 +1,17 @@
+{
+  "name": "assignment-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syeda Shafaq",
+  "license": "MIT",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.11.30",
+    "D": "^1.0.0"
+  }
+}
